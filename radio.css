@@ -9028,3 +9028,13 @@ footer {
 .error-page .error a:hover {
     background: var(--deep-blue);
 }
+
+.row-footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.block-footer {
+}
